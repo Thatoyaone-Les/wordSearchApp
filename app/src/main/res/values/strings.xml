@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">wordSearchApp</string>
+    <string name="scanBtn">not found</string>
+    <string name="welcomeText">Welcome</string>
+    <string name="countText">0</string>
+    <string name="submitBtn">submit</string>
+</resources>
